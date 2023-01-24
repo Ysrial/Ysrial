@@ -1,4 +1,4 @@
-## Olá, me chamo Wyvig Israel! :ghost:
+## Olá, me chamo Wyvig Israel!
 
 ### Sou estudante e programador back-end júnior, e atualmente trabalho com essas tecnologias:  <br> <br>
 
